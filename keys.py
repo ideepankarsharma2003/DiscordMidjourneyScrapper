@@ -1,0 +1,1 @@
+discord_authorization_token= "your_discord_auth_token"
